@@ -7,7 +7,7 @@ test if a value is primitive
 ## tl;dr
 
 ```javascript
-const isPrimitive = require('is-fully-primitive')
+const isPrimitive = require('is-really-primitive')
 
 // booleans are primitive
 isPrimitive(true) // true
